@@ -1,3 +1,4 @@
+//Brayna Estein Acosta Achinte cc 1107509939
 //Dado un monto calcular el descuento considerando que por encima de 
 //100 el descuento es el 10% y por debajo de 100 el descuento es el 2%.
 
